@@ -14,7 +14,6 @@ export function Button( { title, ...rest } : Props ){
     style={styles.container} 
     {...rest}
     >
-
       <Text style={styles.title}>
         { title }
       </Text>

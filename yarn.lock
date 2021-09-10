@@ -1144,10 +1144,20 @@
   resolved "https://registry.yarnpkg.com/@expo-google-fonts/inter/-/inter-0.1.0.tgz#399f068437824fcbf6aa3da5fcf490dba2af85a3"
   integrity sha512-Y6GCqsUX6JwexQ2wmBkMiJBY6M2GpNQRTczzIGbBGhXWQxqGmP5awRcf0ZJV+OlLeJcKAzas/TW45ZLdpG3yzA==
 
+"@expo-google-fonts/lora@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/lora/-/lora-0.2.0.tgz#1d71fddcf21b28491584aa8ee72e0635ff30793b"
+  integrity sha512-guttSaIIHXLzA27PCTK5GTrTBWnWJRzNY2LCxGTq0kPyGUp5+DTzLgTTSDgmM28nuX7sk6aaJemagYfjix+ztw==
+
 "@expo-google-fonts/rajdhani@^0.1.0":
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/@expo-google-fonts/rajdhani/-/rajdhani-0.1.0.tgz#1243bedc261cc33fa6f8bc624c6c85b0906f9d58"
   integrity sha512-8qCn8X5U9/ESkXSrZZsxiXrXoQgZiEUbYyr5QNbdWXMQKCtmziNLf83TW0oeq/EsNTKj4Wndu+7CHGtA6xiCyg==
+
+"@expo-google-fonts/rye@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/rye/-/rye-0.2.0.tgz#d618ec8997eba35db6b335b9d6920b4ece3e04a2"
+  integrity sha512-udT6nSACQ3Hx2LtXMksiboHm5XJJaTNdtOxe8tXWPy5gvsylY5g9zRGrpmliOTPwEu8Nz4ptLQmsMSIqaR6G+g==
 
 "@expo/config-plugins@1.0.33", "@expo/config-plugins@^1.0.18":
   version "1.0.33"
